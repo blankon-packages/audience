@@ -1,0 +1,23 @@
+audience (0.1.0.1+r527-0+pkg19~blankon1) tambora; urgency=medium
+
+  * First import from ElementaryOS PPA 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 10 Jun 2015 14:39:50 +0700
+
+audience (0.1.0.1+r527-0+pkg19~daily~ubuntu15.10.1) wily; urgency=low
+
+  * Auto build.
+
+ -- Launchpad Package Builder <noreply@launchpad.net>  Thu, 04 Jun 2015 21:50:17 +0000
+
+audience (0.1.0.1) trusty; urgency=medium
+
+  * Custom subtitle font support (lp:1455752)
+
+ -- Cody Garver <cody@elementaryos.org>  Wed, 03 Jun 2015 16:37:52 -0500
+
+audience (0.1-0) oneiric; urgency=low
+
+  * Initial release
+
+ -- Cody Garver <codygarver@gmail.com>  Sat, 10 Dec 2011 10:00:00 +0100
